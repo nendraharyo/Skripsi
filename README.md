@@ -1,1 +1,2 @@
 # skripsicuk
+ini skripsiku
